@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.signUpbody{
+    background: rgb(0, 0, 0,0.1) url("../img/background3.jpg") no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    background-blend-mode: darken;
+    
+}
+
+.form-body{
+    position: relative;
+    width: 600px;
+    height: 600px;
+    background: transparent;
+    display: flex;
+    box-shadow: 0px 0px 20px 10px rgb(25, 159, 212);
+    border-radius: 20px;
+    overflow: hidden;
+    border: none;
+    align-items: center;
+    justify-content: center;
+        
+}
+
+.second-bar{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 50px;
+
+}
+
+.second-bar form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.second-bar form input{
+    padding: 10px;
+    border-radius: 10px;
+    border:1px solid #999;
+     
+}
+.second-bar form button{
+    background:rgb(25, 159, 212);
+    padding: 10px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    
+    
+}
+.signUpbody a{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 70px;
+    height: 70px;
+    background: url('../img/return.png')no-repeat center;
+    background-size: cover;
+    filter: invert(100%);
+    
+}
