@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/oceansite/static/css/main.8bf08dbd.css",
-    "main.js": "/oceansite/static/js/main.1d31bc06.js",
+    "main.js": "/oceansite/static/js/main.5de06f27.js",
     "static/media/background.png": "/oceansite/static/media/background.298948b92e353ef48e8a.png",
     "static/media/background3.jpg": "/oceansite/static/media/background3.de2b652e766d8a3171f3.jpg",
     "static/media/logo.png": "/oceansite/static/media/logo.0ca6388f58ba35154911.png",
@@ -9,10 +9,10 @@
     "static/media/bubble.png": "/oceansite/static/media/bubble.91b74213fcaa90a5abc5.png",
     "index.html": "/oceansite/index.html",
     "main.8bf08dbd.css.map": "/oceansite/static/css/main.8bf08dbd.css.map",
-    "main.1d31bc06.js.map": "/oceansite/static/js/main.1d31bc06.js.map"
+    "main.5de06f27.js.map": "/oceansite/static/js/main.5de06f27.js.map"
   },
   "entrypoints": [
     "static/css/main.8bf08dbd.css",
-    "static/js/main.1d31bc06.js"
+    "static/js/main.5de06f27.js"
   ]
 }
