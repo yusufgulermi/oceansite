@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/https//yusufgulermi.github.io/oceansite/static/css/main.23642017.css",
+    "main.js": "/https//yusufgulermi.github.io/oceansite/static/js/main.96289c57.js",
+    "static/media/background.png": "/https//yusufgulermi.github.io/oceansite/static/media/background.298948b92e353ef48e8a.png",
+    "static/media/background3.jpg": "/https//yusufgulermi.github.io/oceansite/static/media/background3.de2b652e766d8a3171f3.jpg",
+    "static/media/logo.png": "/https//yusufgulermi.github.io/oceansite/static/media/logo.0ca6388f58ba35154911.png",
+    "static/media/background2.png": "/https//yusufgulermi.github.io/oceansite/static/media/background2.c7eb2f8d48a780c48b7d.png",
+    "static/media/bubble.png": "/https//yusufgulermi.github.io/oceansite/static/media/bubble.91b74213fcaa90a5abc5.png",
+    "index.html": "/https//yusufgulermi.github.io/oceansite/index.html",
+    "main.23642017.css.map": "/https//yusufgulermi.github.io/oceansite/static/css/main.23642017.css.map",
+    "main.96289c57.js.map": "/https//yusufgulermi.github.io/oceansite/static/js/main.96289c57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23642017.css",
+    "static/js/main.96289c57.js"
+  ]
+}
