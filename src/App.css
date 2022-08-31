@@ -51,7 +51,7 @@ body{
     right: 0;
     top: 0;
     background: black;
-    width: 400px;
+    width:400px ;
     height: 100vh;
     background-color: hsl(0 0% 90% / 0.2);
     backdrop-filter: blur(0.2rem);
@@ -291,3 +291,43 @@ body{
         transform: translateX(0%);
     }
 }
+
+@media only screen and (max-width: 600px) {
+    .sideFooter{
+        visibility: hidden;
+        width: 100%;
+    }
+    .bar{
+       visibility: visible;
+    }
+    #signUp{
+       display: none;
+    }
+    .logo{
+        left: 30px;
+    }
+    .sideFooter.menu{
+        visibility: visible;
+        transform: translateX(0%);
+    }
+    .menu .hidden-bar{
+        gap: 10px;
+        top: 10rem;
+        left: -1rem;
+    }
+    .menu .links{
+        top: 12rem;
+        gap: 10px;
+    }
+    .content{
+        display: flex;
+        gap: 30px;
+        flex-direction: column;
+    }
+    .main-body .content p{
+        font-size: 14px;
+    }
+    .main-body .content h1{
+        font-size: 40px;
+    }
+  }
